@@ -32,7 +32,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <a href="#home" className="text-2xl font-bold text-primary hover:text-accent transition-smooth">
-            YourName
+            PICAZO
           </a>
 
           {/* Desktop Navigation */}

@@ -64,13 +64,13 @@ const Contact = () => {
 
               <div className="space-y-4">
                 <a
-                  href="mailto:hello@yourname.com"
+                  href="mailto:hello@picazo.com"
                   className="flex items-center gap-3 text-foreground hover:text-accent transition-smooth"
                 >
                   <div className="w-10 h-10 rounded-lg bg-accent/10 flex items-center justify-center">
                     <Mail className="w-5 h-5 text-accent" />
                   </div>
-                  <span className="text-sm">hello@yourname.com</span>
+                  <span className="text-sm">hello@picazo.com</span>
                 </a>
 
                 <a
@@ -82,7 +82,7 @@ const Contact = () => {
                   <div className="w-10 h-10 rounded-lg bg-accent/10 flex items-center justify-center">
                     <Instagram className="w-5 h-5 text-accent" />
                   </div>
-                  <span className="text-sm">@yourname</span>
+                  <span className="text-sm">@picazo</span>
                 </a>
 
                 <a
@@ -94,7 +94,7 @@ const Contact = () => {
                   <div className="w-10 h-10 rounded-lg bg-accent/10 flex items-center justify-center">
                     <Linkedin className="w-5 h-5 text-accent" />
                   </div>
-                  <span className="text-sm">Your Name</span>
+                  <span className="text-sm">PICAZO</span>
                 </a>
               </div>
             </div>

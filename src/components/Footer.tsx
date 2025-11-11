@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           {/* Branding */}
           <div>
-            <h3 className="text-2xl font-bold mb-4">YourName</h3>
+            <h3 className="text-2xl font-bold mb-4">PICAZO</h3>
             <p className="text-sm text-primary-foreground/80 mb-4">
               Graphic designer specializing in brand identity, social media, and visual storytelling.
             </p>
@@ -90,7 +90,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-primary-foreground/20 pt-8 text-center text-sm text-primary-foreground/60">
-          <p>© {currentYear} YourName. All rights reserved. Designed with passion.</p>
+          <p>© {currentYear} PICAZO. All rights reserved. Designed with passion.</p>
         </div>
       </div>
     </footer>
