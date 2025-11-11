@@ -18,8 +18,9 @@ const Hero = () => {
             </div>
             
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
-              I design brands that people{" "}
-              <span className="text-gradient">remember</span>
+              <span className="text-gradient">PICAZO</span>
+              <br />
+              <span className="text-3xl md:text-4xl lg:text-5xl">I design brands that people remember</span>
             </h1>
             
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl">
